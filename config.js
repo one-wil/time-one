@@ -40,6 +40,42 @@ const STORE_CONFIG = {
       "createdAt": "2026-09-10T16:33:00.513Z",
       "image": "https://raw.githubusercontent.com/one-wil/hassoun/main/images/product-1789057980512-1789058061546-Screenshot-20260907-204806-Samsung-Browser.jpg",
       "updatedAt": "2026-09-10T16:34:45.655Z"
+    },
+    "1789080033940": {
+      "name": "ملابس أطفال تركية ",
+      "price": 32000,
+      "description": "Gyihftwrtx ugygtx ugygftc",
+      "category": "",
+      "stock": 0,
+      "featured": false,
+      "availableColors": [
+        "Black-olive Geen"
+      ],
+      "availableSizes": [
+        "S"
+      ],
+      "ageRanges": [],
+      "colorImages": {
+        "Black-olive Geen": {
+          "images": [
+            "https://raw.githubusercontent.com/one-wil/time-one/main/images/product-1789080033940-Black-olive%20Geen-1789080117131-Messenger-creation-BFECA40B-57E0-4596-BD25-4F9D45BA3562.jpeg"
+          ],
+          "ageRanges": [
+            {
+              "ageFrom": " ",
+              "ageTo": " ",
+              "size": "S"
+            }
+          ]
+        }
+      },
+      "sizeGuide": {
+        "enabled": false,
+        "guide": {}
+      },
+      "createdAt": "2026-09-10T22:40:33.940Z",
+      "image": "https://raw.githubusercontent.com/one-wil/time-one/main/images/product-1789080033940-1789080065571-Messenger-creation-DA7E8AFE-784D-48C2-821E-C16D8C29DECF.jpeg",
+      "updatedAt": "2026-09-10T22:41:31.887Z"
     }
   },
   "PRODUCT_ORDER": {},
@@ -309,7 +345,7 @@ const STORE_CONFIG = {
     "promoDiscountProducts": []
   },
   "STORE_INFO": {
-    "name": "Hassoun",
+    "name": "Time-one",
     "storeIcon": "-",
     "storeTitle": "-",
     "tagline": "",
