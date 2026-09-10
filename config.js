@@ -78,7 +78,10 @@ const STORE_CONFIG = {
       "updatedAt": "2026-09-10T22:41:31.887Z"
     }
   },
-  "PRODUCT_ORDER": {},
+  "PRODUCT_ORDER": {
+    "1789057980512": 2,
+    "1789080033940": 1
+  },
   "DELIVERY_PRICES": {
     "01 - أدرار": {
       "home": 1100,
